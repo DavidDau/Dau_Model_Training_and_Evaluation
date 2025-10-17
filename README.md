@@ -2,7 +2,7 @@
 
 ## Links
 Youtube: 
-Report: 
+Report Document: https://docs.google.com/document/d/16r5Dfw4OJ2K4spKBho5rQgXGiZ-4ybKwrNCECf0dHl4/edit?usp=sharing 
 
 ## 🌱 Project Overview
 
