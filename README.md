@@ -1,18 +1,20 @@
 # Crop Disease Classification: Traditional ML vs Deep Learning
 
 ## Links
-Youtube: 
+
+Youtube: https://youtu.be/mvbe72AEakQ
+
 Report Document: https://docs.google.com/document/d/16r5Dfw4OJ2K4spKBho5rQgXGiZ-4ybKwrNCECf0dHl4/edit?usp=sharing 
 
-## 🌱 Project Overview
+## Project Overview
 
 This project addresses the critical issue of **hunger caused by insufficient crop consumption due to crop diseases** that reduce harvest yields. We develop machine learning models to classify healthy and diseased leaves, demonstrating the application of both traditional machine learning and deep learning approaches in the agricultural sector.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Crop diseases are a major threat to global food security, causing significant yield losses that contribute to hunger and food insecurity. Early detection and classification of plant diseases can help farmers take preventive measures, reduce crop losses, and improve food production.
 
-## 🔬 Technical Approaches
+## Technical Approaches
 
 ### 1. Traditional Machine Learning
 - **Feature Engineering**: Color histograms, texture features, statistical measures
@@ -28,7 +30,7 @@ Crop diseases are a major threat to global food security, causing significant yi
 - **Input**: Raw images (128x128x3)
 - **Optimization**: Adam optimizer with binary cross-entropy loss
 
-## 📈 Experiment Results
+## Experiment Results
 
 | Model | Type | Accuracy | Parameters | Dataset |
 |-------|------|----------|------------|---------|
@@ -43,7 +45,7 @@ Crop diseases are a major threat to global food security, causing significant yi
 2. Run all cells sequentially
 3. View results in the experiment table and visualizations
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Performance Insights
 - **CNN outperformed traditional ML** by ~4-7% accuracy
@@ -55,7 +57,7 @@ Crop diseases are a major threat to global food security, causing significant yi
 - **Cost reduction**: Automated monitoring reduces manual inspection costs
 - **Yield preservation**: Timely intervention can save 20-40% of crop yields
 
-## 🛠️ Model Evaluation
+## Model Evaluation
 
 ### Metrics Used
 - Accuracy
@@ -67,7 +69,7 @@ Crop diseases are a major threat to global food security, causing significant yi
 - Lighting conditions and image quality affected traditional ML more than CNN
 - CNN showed better generalization to varied leaf orientations
 
-## 🌟 Future Enhancements
+## Future Enhancements
 
 1. **Multi-class Classification**: Extend to specific disease types (blight, rust, mildew)
 2. **Real-time Deployment**: Mobile app for field use
@@ -75,7 +77,7 @@ Crop diseases are a major threat to global food security, causing significant yi
 4. **Data Augmentation**: Expand dataset with synthetic samples
 5. **Explainable AI**: Visualize which leaf regions indicate disease
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Areas for contribution:
 - Additional model architectures
